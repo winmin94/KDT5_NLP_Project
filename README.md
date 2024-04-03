@@ -28,8 +28,6 @@
 
 ### 이승민
 
-https://github.com/winmin94
-
 #### 주제 :
 
 #### 깃허브 : [링크 - winmin94](www.github.com/winmin94)
